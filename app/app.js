@@ -1,5 +1,4 @@
 (function() {
-  'use strict';
-
-  console.log('this is my app');
-})();
+  // i'm an app file
+  console.log('app file');
+}());
